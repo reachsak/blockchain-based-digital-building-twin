@@ -1,1 +1,53 @@
-# blockchain-based-digital-building-twin
+# Blockchain-Based IoT and Digital Twin for Smart Building Facilities Operation
+
+**Date:** January 2024 – Present  
+**Institution:** Virginia Polytechnic Institute and State University
+
+## Demo
+
+### Project Overview and Implementation
+
+[![Watch the demo video 1](https://img.youtube.com/vi/7IBrjgQMDcM/0.jpg)](https://www.youtube.com/watch?v=7IBrjgQMDcM)  
+*Click on the image to view the video.*
+
+### System Efficiency and Security
+
+[![Watch the demo video 2](https://img.youtube.com/vi/G9woAFoHAsg/0.jpg)](https://www.youtube.com/watch?v=G9woAFoHAsg)  
+*Click on the image to view the video.*
+
+### Digital Twin and IoT Integration
+
+[![Watch the demo video 3](https://img.youtube.com/vi/KcqF8dRcqzw/0.jpg)](https://www.youtube.com/watch?v=KcqF8dRcqzw)  
+*Click on the image to view the video.*
+
+## Project Overview
+
+This project focuses on developing a blockchain-based IoT framework and digital twin model to automate and optimize building facilities operations. The objective is to enhance system efficiency and the security of IoT data. The project leverages Hyperledger Fabric, Ethereum blockchain, digital twin technologies, and various IoT sensors and devices.
+
+### Key Features
+
+- **Blockchain-Based IoT Framework:** Utilizes Hyperledger Fabric and Ethereum blockchain to secure and streamline IoT data management and building operations.
+- **Digital Twin Model:** Implements a digital twin to create a virtual replica of building systems for real-time monitoring and optimization.
+- **Enhanced Efficiency and Security:** Aims to improve operational efficiency and ensure the security of data through decentralized and secure blockchain technologies.
+
+## Getting Started
+
+### Requirements
+
+- Hyperledger Fabric
+- Ethereum blockchain
+- Digital Twin technology
+- IoT sensors and devices
+- Python 3.x
+
+### Installation
+
+*Coming soon...*
+
+## Contributing
+
+Contributions are welcome! Please read the `CONTRIBUTING.md` file for details on how to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
