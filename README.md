@@ -1,8 +1,7 @@
 # Blockchain-Based IoT and Digital Twin for Smart Building Facilities Operation
 
-**Date:** January 2024 – Present  
-**Institution:** Virginia Polytechnic Institute and State University
-
+## Manuscript
+Under preparation...
 ## Demo
 
 ### Project Overview and Implementation
