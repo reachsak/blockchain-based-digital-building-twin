@@ -10,17 +10,14 @@
 <img src="/fig3.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
 
 
-### Demo Video
+## Demo Video
+
+### Hyperledger Fabric based digital twin
 
 [![Watch the demo video 1](https://img.youtube.com/vi/7IBrjgQMDcM/0.jpg)](https://www.youtube.com/watch?v=7IBrjgQMDcM)  
 *Click on the image to view the video.*
 
-### System Efficiency and Security
-
-[![Watch the demo video 2](https://img.youtube.com/vi/G9woAFoHAsg/0.jpg)](https://www.youtube.com/watch?v=G9woAFoHAsg)  
-*Click on the image to view the video.*
-
-### Digital Twin and IoT Integration
+### Ethereum-based digital twin
 
 [![Watch the demo video 3](https://img.youtube.com/vi/KcqF8dRcqzw/0.jpg)](https://www.youtube.com/watch?v=KcqF8dRcqzw)  
 *Click on the image to view the video.*
