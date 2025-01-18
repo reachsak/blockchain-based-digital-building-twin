@@ -1,6 +1,7 @@
 # Blockchain-Based IoT and Digital Twin for Smart Building Facilities Operation
+## Project Overview
 
-## Summary
+This project focuses on developing a blockchain-based IoT framework and digital twin model to automate and optimize building facilities operations. The objective is to enhance system efficiency and the security of IoT data. The project leverages Hyperledger Fabric, Ethereum blockchain, digital twin technologies, and various IoT sensors and devices.
 <img src="/fig1.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
 
 ## Hyperledger Fabric based digital twin
@@ -22,9 +23,7 @@
 [![Watch the demo video 3](https://img.youtube.com/vi/KcqF8dRcqzw/0.jpg)](https://www.youtube.com/watch?v=KcqF8dRcqzw)  
 *Click on the image to view the video.*
 
-## Project Overview
 
-This project focuses on developing a blockchain-based IoT framework and digital twin model to automate and optimize building facilities operations. The objective is to enhance system efficiency and the security of IoT data. The project leverages Hyperledger Fabric, Ethereum blockchain, digital twin technologies, and various IoT sensors and devices.
 
 ### Key Features
 
