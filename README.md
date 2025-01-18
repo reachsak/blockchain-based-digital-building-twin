@@ -2,9 +2,9 @@
 
 ## Summary
 <img src="/fig1.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
-### Hyperledger Fabric based digital twin
+## Hyperledger Fabric based digital twin
 <img src="/fig2.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
-### Ethereum-based digital twin
+## Ethereum-based digital twin
 <img src="/fig3.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
 
 
