@@ -1,7 +1,9 @@
 # Blockchain-Based IoT and Digital Twin for Smart Building Facilities Operation
 
-## Manuscript
-Under preparation...
+## Summary
+<img src="/fig1.png" style="float: left; margin-right: 20px; max-width: 200px;">
+<img src="/fig2.png" style="float: left; margin-right: 20px; max-width: 200px;">
+
 ## Demo
 
 ### Project Overview and Implementation
@@ -39,14 +41,5 @@ This project focuses on developing a blockchain-based IoT framework and digital 
 - IoT sensors and devices
 - Python 3.x
 
-### Installation
-
-*Coming soon...*
-
-## Contributing
-
-Contributions are welcome! Please read the `CONTRIBUTING.md` file for details on how to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+## Manuscript
+Under preparation...
