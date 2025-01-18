@@ -10,7 +10,7 @@
 <img src="/fig3.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
 
 
-### Project Overview and Implementation
+### Demo Video
 
 [![Watch the demo video 1](https://img.youtube.com/vi/7IBrjgQMDcM/0.jpg)](https://www.youtube.com/watch?v=7IBrjgQMDcM)  
 *Click on the image to view the video.*
