@@ -1,9 +1,9 @@
 # Blockchain-Based IoT and Digital Twin for Smart Building Facilities Operation
 
 ## Summary
-<img src="/fig1.png" style="float: left; margin-right: 20px; max-width: 200px;">
-<img src="/fig2.png" style="float: left; margin-right: 20px; max-width: 200px;">
-
+<img src="/fig1.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
+<img src="/fig2.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
+<img src="/fig3.jpg" style="float: left; margin-right: 20px; max-width: 200px;">
 ## Demo
 
 ### Project Overview and Implementation
