@@ -1,4 +1,10 @@
 # Blockchain-Based IoT and Digital Twin for Smart Building Facilities Operation
+
+## Manuscript
+[Public and private blockchain for decentralized digital building twins and building
+automation system](https://reachsak.github.io/files/study1.pdf)
+
+
 ## Project Overview
 
 This project focuses on developing a blockchain-based IoT framework and digital twin model to automate and optimize building facilities operations. The project leverages Hyperledger Fabric, Ethereum blockchain, digital twin technologies, and various IoT sensors and devices.
